@@ -1,8 +1,9 @@
+
 rows = int(input("Enter the size of the pattern: "))
 
-for i in range(rows):
-    # Print stars
+i = 0  
+while i < rows:
     for star in range(rows):
-        print("*", end="")
-
-    print()  # Move to the next line
+        print("*", end="")  
+    print() 
+    i += 1  # Move to the next row
