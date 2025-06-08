@@ -1,4 +1,3 @@
-# Global conversion factors
 
 def convert_to_celsius(fahrenheit):
     global FAHRENHEIT_TO_CELSIUS_FACTOR
