@@ -11,8 +11,8 @@ The repository is organized by topic, each folder representing a distinct phase 
 ### 1. [`python_introduction/`](./python_introduction/)
 Beginner-friendly scripts to get familiar with basic syntax, arithmetic operations, and input/output handling.
 
-- [`basic_operations.py`](./alx_be_python-main/python_introduction/basic_operations.py) – Performs basic math and prints results  
-- [`finance_calculator.py`](./alx_be_python-main/python_introduction/finance_calculator.py) – A simple finance-related computation tool
+- [`basic_operations.py`](./python_introduction/basic_operations.py) – Performs basic math and prints results  
+- [`finance_calculator.py`](./python_introduction/finance_calculator.py) – A simple finance-related computation tool
 
 ### 2. [`control-flow/`](./alx_be_python-main/control-flow/)
 Programs illustrating conditional logic, loops, and pattern matching.
