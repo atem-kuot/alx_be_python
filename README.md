@@ -8,7 +8,7 @@ This repository contains foundational Python scripts and modules built as part o
 
 The repository is organized by topic, each folder representing a distinct phase of the Python learning journey:
 
-### 1. [`python_introduction/`](./alx_be_python-main/python_introduction/)
+### 1. [`python_introduction/`](./alx_be_python/python_introduction/)
 Beginner-friendly scripts to get familiar with basic syntax, arithmetic operations, and input/output handling.
 
 - [`basic_operations.py`](./alx_be_python-main/python_introduction/basic_operations.py) – Performs basic math and prints results  
