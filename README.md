@@ -51,9 +51,3 @@ Focuses on applying different paradigms (procedural, functional, OOP) in real-wo
 ### ✅ Requirements
 - Python 3.8+
 - No external dependencies required for most scripts
-
-### ▶️ Running a Script
-
-```bash
-cd control-flow
-python match_case_calculator.py
